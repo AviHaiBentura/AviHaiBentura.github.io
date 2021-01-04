@@ -1,0 +1,8 @@
+body {
+  font-family: "Raleway", Arial, Helvetica, sans-serif;
+  width: 100%;
+  max-width: 1440px;
+}
+.container {
+  display: grid;
+}
